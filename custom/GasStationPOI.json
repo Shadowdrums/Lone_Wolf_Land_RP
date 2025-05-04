@@ -1,0 +1,1069 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Ruin_HouseBlock_Half",
+            "pos": [
+                13369.779296875,
+                13.164600372314454,
+                6664.18408203125
+            ],
+            "ypr": [
+                -106.02336120605469,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Ruin_HouseBlock_Corner_Total",
+            "pos": [
+                13373.041015625,
+                7.163515090942383,
+                6639.5986328125
+            ],
+            "ypr": [
+                -109.52689361572266,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Ruin_HouseBig1_Proxy_overgrowth_02",
+            "pos": [
+                13371.9794921875,
+                7.8556976318359379,
+                6662.58935546875
+            ],
+            "ypr": [
+                161.57118225097657,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Ruin_HouseSmall1_Proxy_overgrowth",
+            "pos": [
+                13369.68359375,
+                6.566290378570557,
+                6664.22607421875
+            ],
+            "ypr": [
+                -111.93753814697266,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Ruin_HouseBig1_Proxy_overgrowth_02",
+            "pos": [
+                13392.2529296875,
+                2.793869972229004,
+                6605.45947265625
+            ],
+            "ypr": [
+                -103.79584503173828,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Ruin_HouseBig1_Proxy_overgrowth_02_template",
+            "pos": [
+                13394.53125,
+                2.071239471435547,
+                6609.28466796875
+            ],
+            "ypr": [
+                -20.480289459228517,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Ruin_HouseSmall1_Half_Proxy_overgrowth",
+            "pos": [
+                13393.2861328125,
+                6.748219013214111,
+                6605.33984375
+            ],
+            "ypr": [
+                170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Uaz",
+            "pos": [
+                13401.8203125,
+                4.952610969543457,
+                6597.70849609375
+            ],
+            "ypr": [
+                125.99992370605469,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Volha_Blue",
+            "pos": [
+                13395.173828125,
+                4.843136787414551,
+                6598.3994140625
+            ],
+            "ypr": [
+                144.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                13394.76953125,
+                5.042500019073486,
+                6602.3173828125
+            ],
+            "ypr": [
+                171.00009155273438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                13396.5654296875,
+                4.905696868896484,
+                6601.7392578125
+            ],
+            "ypr": [
+                -179.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed01_aban2_white",
+            "pos": [
+                13403.3935546875,
+                5.057252883911133,
+                6592.25390625
+            ],
+            "ypr": [
+                153.00006103515626,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_red",
+            "pos": [
+                13403.412109375,
+                5.0344624519348148,
+                6587.1572265625
+            ],
+            "ypr": [
+                162.00009155273438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_green",
+            "pos": [
+                13390.234375,
+                4.196692943572998,
+                6604.33251953125
+            ],
+            "ypr": [
+                171.0001220703125,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                13395.6875,
+                4.8077168464660648,
+                6606.1533203125
+            ],
+            "ypr": [
+                -73.176025390625,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                13407.109375,
+                4.910160064697266,
+                6585.1953125
+            ],
+            "ypr": [
+                126.00004577636719,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                13409.765625,
+                5.043337345123291,
+                6581.88525390625
+            ],
+            "ypr": [
+                125.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_S1023_Beige",
+            "pos": [
+                13395.6435546875,
+                5.078831195831299,
+                6610.4814453125
+            ],
+            "ypr": [
+                0.000010490415661479347,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                13400.0205078125,
+                5.282904624938965,
+                6607.2177734375
+            ],
+            "ypr": [
+                -18.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                13387.330078125,
+                5.083573341369629,
+                6603.9404296875
+            ],
+            "ypr": [
+                -4.469595909118652,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                13411.080078125,
+                4.6563544273376469,
+                6584.525390625
+            ],
+            "ypr": [
+                99.00001525878906,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_blue",
+            "pos": [
+                13398.8701171875,
+                5.099776744842529,
+                6599.7421875
+            ],
+            "ypr": [
+                -170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Uaz",
+            "pos": [
+                13405.576171875,
+                4.700206279754639,
+                6583.3857421875
+            ],
+            "ypr": [
+                135.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Volha_Police",
+            "pos": [
+                13406.984375,
+                4.73278284072876,
+                6588.45947265625
+            ],
+            "ypr": [
+                90.00003814697266,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb02_aban2_red",
+            "pos": [
+                13399.7138671875,
+                4.949466228485107,
+                6595.80615234375
+            ],
+            "ypr": [
+                -61.77253341674805,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_S1023_Blue",
+            "pos": [
+                13400.849609375,
+                5.3807902336120609,
+                6591.05419921875
+            ],
+            "ypr": [
+                117.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Volha_Grey",
+            "pos": [
+                13390.439453125,
+                5.1250200271606449,
+                6597.84228515625
+            ],
+            "ypr": [
+                -170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed01_aban2_police",
+            "pos": [
+                13393.630859375,
+                5.0564470291137699,
+                6596.14501953125
+            ],
+            "ypr": [
+                144.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_blue",
+            "pos": [
+                13397.525390625,
+                4.9623517990112309,
+                6593.50244140625
+            ],
+            "ypr": [
+                -99.00003814697266,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed01_aban2_black",
+            "pos": [
+                13413.58984375,
+                4.724179744720459,
+                6579.736328125
+            ],
+            "ypr": [
+                144.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_wreck_truck01_aban1_blue",
+            "pos": [
+                13395.1181640625,
+                4.091439723968506,
+                6619.0830078125
+            ],
+            "ypr": [
+                26.99968910217285,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_red",
+            "pos": [
+                13391.9375,
+                5.008347034454346,
+                6608.787109375
+            ],
+            "ypr": [
+                -27.000003814697267,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                13393.4677734375,
+                5.195553302764893,
+                6611.96435546875
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                13396.16796875,
+                5.098743915557861,
+                6614.77783203125
+            ],
+            "ypr": [
+                80.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Lada_Green",
+            "pos": [
+                13389.328125,
+                4.72847318649292,
+                6608.92138671875
+            ],
+            "ypr": [
+                0.00003242491220589727,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Volha_Police",
+            "pos": [
+                13390.224609375,
+                4.740254878997803,
+                6613.1826171875
+            ],
+            "ypr": [
+                -27.00000762939453,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban2",
+            "pos": [
+                13394.15234375,
+                6.032792091369629,
+                6624.74365234375
+            ],
+            "ypr": [
+                17.999984741210939,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Volha_Blue",
+            "pos": [
+                13396.828125,
+                4.8839192390441898,
+                6625.74755859375
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_police",
+            "pos": [
+                13395.4931640625,
+                5.178840160369873,
+                6630.18701171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                13396.86328125,
+                5.044346809387207,
+                6633.53759765625
+            ],
+            "ypr": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                13378.8974609375,
+                5.591287612915039,
+                6602.55078125
+            ],
+            "ypr": [
+                -18.000003814697267,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                13391.7265625,
+                4.866127967834473,
+                6615.986328125
+            ],
+            "ypr": [
+                109.50940704345703,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban1",
+            "pos": [
+                13392.1259765625,
+                6.057185173034668,
+                6620.12060546875
+            ],
+            "ypr": [
+                -146.46180725097657,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Wreck_UH1Y",
+            "pos": [
+                13392.09375,
+                12.05704402923584,
+                6603.41650390625
+            ],
+            "ypr": [
+                -121.59355163574219,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_MassGrave_15m",
+            "pos": [
+                13401.662109375,
+                4.385915756225586,
+                6611.30517578125
+            ],
+            "ypr": [
+                71.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_MassGrave_15m",
+            "pos": [
+                13406.4482421875,
+                4.372053146362305,
+                6596.7119140625
+            ],
+            "ypr": [
+                71.99994659423828,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_civil",
+            "pos": [
+                13394.1728515625,
+                9.793134689331055,
+                6604.23486328125
+            ],
+            "ypr": [
+                176.47491455078126,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Rubble_DirtPile_Medium2",
+            "pos": [
+                13397.7607421875,
+                4.312843322753906,
+                6614.50830078125
+            ],
+            "ypr": [
+                98.99993133544922,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Pile",
+            "pos": [
+                13395.2958984375,
+                4.361888885498047,
+                6616.46240234375
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.04490230605006218,
+                -0.06180277839303017
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile2",
+            "pos": [
+                13395.3974609375,
+                5.362855911254883,
+                6620.3583984375
+            ],
+            "ypr": [
+                -25.7946834564209,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999977350234985,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13395.6279296875,
+                4.328152656555176,
+                6616.18359375
+            ],
+            "ypr": [
+                27.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13395.9462890625,
+                4.343834400177002,
+                6623.244140625
+            ],
+            "ypr": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13400.888671875,
+                4.327126502990723,
+                6599.8828125
+            ],
+            "ypr": [
+                18.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13403.0634765625,
+                4.345006465911865,
+                6595.22265625
+            ],
+            "ypr": [
+                -80.99995422363281,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13399.7314453125,
+                4.3645148277282719,
+                6592.11962890625
+            ],
+            "ypr": [
+                35.999996185302737,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13411.689453125,
+                4.21484899520874,
+                6582.119140625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13383.9169921875,
+                4.409780979156494,
+                6630.92041015625
+            ],
+            "ypr": [
+                53.99998474121094,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13397.7001953125,
+                10.700900077819825,
+                6605.5009765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_ShellCrater2_Debris",
+            "pos": [
+                13393.4169921875,
+                10.700900077819825,
+                6603.4990234375
+            ],
+            "ypr": [
+                -48.04557800292969,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5000005960464478,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                13396.14453125,
+                10.638152122497559,
+                6606.09033203125
+            ],
+            "ypr": [
+                -89.40805053710938,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13397.462890625,
+                4.292111396789551,
+                6616.7900390625
+            ],
+            "ypr": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13401.1923828125,
+                4.278314590454102,
+                6600.6328125
+            ],
+            "ypr": [
+                53.999969482421878,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                13400.9375,
+                4.19565486907959,
+                6600.88818359375
+            ],
+            "ypr": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13394.9599609375,
+                4.352069854736328,
+                6627.39208984375
+            ],
+            "ypr": [
+                -35.999996185302737,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13395.802734375,
+                4.301599502563477,
+                6623.7265625
+            ],
+            "ypr": [
+                117.00003051757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13410.2412109375,
+                4.192460060119629,
+                6581.98583984375
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13397.27734375,
+                4.260870933532715,
+                6596.10595703125
+            ],
+            "ypr": [
+                -89.99995422363281,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                13394.87890625,
+                4.203385829925537,
+                6600.89697265625
+            ],
+            "ypr": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13397.85546875,
+                4.38934850692749,
+                6604.4912109375
+            ],
+            "ypr": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                13394.509765625,
+                4.248843669891357,
+                6604.134765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                13391.15234375,
+                4.261850833892822,
+                6600.0712890625
+            ],
+            "ypr": [
+                35.999996185302737,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}
