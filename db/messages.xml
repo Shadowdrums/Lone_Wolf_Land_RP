@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <deadline>480</deadline>
+        <shutdown>1</shutdown>
+        <text>Shadows Realm will restart in #tmin minutes.</text>
+    </message>
+
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to Lone Wolf Land RP (Discord: https://discord.gg/MuyBvEUK )</text>
+    </message>
+
+    <message>
+        <delay>1</delay>
+        <repeat>60</repeat>
+        <onconnect>1</onconnect>
+        <text>server restarts every 8 hours </text>
+    </message>
+
+    <message>
+        <delay>1</delay>
+        <repeat>60</repeat>
+        <onconnect>1</onconnect>
+        <text>Turn on your GPS then use your tourist map, it will ping you on the map with a red circle </text>
+    </message>
+
+    <message>
+        <delay>2</delay>
+        <repeat>61</repeat>
+        <onconnect>1</onconnect>
+        <text>you can grow cannabis and find shrooms </text>
+    </message>
+
+    <message>
+        <delay>2</delay>
+        <repeat>61</repeat>
+        <onconnect>1</onconnect>
+        <text>There are no rules, If you play KOS try to make that part of your RP  </text>
+    </message>
+
+    <message>
+        <delay>3</delay>
+        <repeat>62</repeat>
+        <onconnect>1</onconnect>
+        <text>Bring your friends or others, as the community grows, so will the server. (Discord: https://discord.gg/MuyBvEUK ) </text>
+    </message>
+    
+    <message>
+        <delay>3</delay>
+        <repeat>62</repeat>
+        <onconnect>1</onconnect>
+        <text>Be Respectful and mature with others, everyone wants to have fun </text>
+    </message> 
+
+    <message>
+        <delay>4</delay>
+        <repeat>63</repeat>
+        <onconnect>1</onconnect>
+        <text>Field bags at heli crashes have special loot </text>
+    </message>
+
+    <message>
+        <delay>4</delay>
+        <repeat>63</repeat>
+        <onconnect>1</onconnect>
+        <text>Special zombies at holy sites, Glowing mummies at Castles </text>
+    </message>
+
+    <message>
+        <delay>5</delay>
+        <repeat>64</repeat>
+        <onconnect>1</onconnect>
+        <text>2 Custom Bunkers, they will need a punch card that can only be found in either of the permanent contaminated zones </text>
+    </message>
+
+    <message>
+        <delay>5</delay>
+        <repeat>64</repeat>
+        <onconnect>1</onconnect>
+        <text>Cars spawn fully built but will need gas and water </text>
+    </message>
+
+    <message>
+        <delay>6</delay>
+        <repeat>65</repeat>
+        <onconnect>1</onconnect>
+        <text>We encourage Roleplay and interaction. This is an Organic Roleplay server, start with your in character name and go from there </text>
+    </message>
+
+    <message>
+        <delay>6</delay>
+        <repeat>65</repeat>
+        <onconnect>1</onconnect>
+        <text>Try using Game chat and Radios to talk to other players (try channel 87.8 from time to time) </text>
+    </message>
+
+    <message>
+        <delay>7</delay>
+        <repeat>66</repeat>
+        <onconnect>1</onconnect>
+        <text>Oil Rig can be found by the eastern ship wreck, Stary Yar has Military, custom gas station on the east coast </text>
+    </message>
+
+    <message>
+        <delay>7</delay>
+        <repeat>66</repeat>
+        <onconnect>1</onconnect>
+        <text>Server Owner: shadowdrums7331 feel free to shoot at or interact with :P </text>
+    </message>
+    
+    <message>
+        <delay>8</delay>
+        <repeat>67</repeat>
+        <onconnect>1</onconnect>
+        <text>Heli crashes are in custom locations mainly around vybor airfield (NWAF) </text>
+    </message>
+    
+    <message>
+        <delay>8</delay>
+        <repeat>67</repeat>
+        <onconnect>1</onconnect>
+        <text>Become a regular in our server and you wont regret it :D </text>
+    </message>
+    
+    <message>
+        <delay>9</delay>
+        <repeat>68</repeat>
+        <onconnect>1</onconnect>
+        <text>Server Boost Code: e21flm7s ( e, 2, 1, f, l, m, 7, s ) Donations are explicitly for server run time, use nitrado app and code to donate </text>
+    </message>
+
+    <message>
+        <delay>9</delay>
+        <repeat>68</repeat>
+        <onconnect>1</onconnect>
+        <text>Jamacias Trading post GPS Coords, X:0.65 Y:0.60, iZurvie Coords, X:6533 Y:9274 </text>
+    </message>
+
+    <message>
+        <delay>10</delay>
+        <repeat>69</repeat>
+        <onconnect>1</onconnect>
+        <text>Scientific Briefcases are events and are guarded in Tisy MB and Vybor Airfield (NWAF) </text>
+    </message>
+
+    <message>
+        <delay>10</delay>
+        <repeat>69</repeat>
+        <onconnect>1</onconnect>
+        <text>Mummies have a chance to drop keys for the scientific briefcases </text>
+    </message>
+
+    <message>
+        <delay>11</delay>
+        <repeat>70</repeat>
+        <onconnect>1</onconnect>
+        <text>payday masks can be found in fairgrounds </text>
+    </message>
+
+    <message>
+        <delay>11</delay>
+        <repeat>70</repeat>
+        <onconnect>1</onconnect>
+        <text>special backpack with gear can be found at ruins and radio towers but are guarded by ghillied zombies </text>
+    </message>
+
+    <message>
+        <delay>12</delay>
+        <repeat>71</repeat>
+        <onconnect>1</onconnect>
+        <text>Giant Roaming Hordes can appear anywhere in the map, mainly near large towns/cities but can also be found in forests and fields near towns/cities </text>
+    </message>
+
+    <message>
+        <delay>12</delay>
+        <repeat>71</repeat>
+        <onconnect>1</onconnect>
+        <text>You're playing on Lone Wolf Land RP. Thank you </text>
+    </message>
+
+    <message>
+        <delay>13</delay>
+        <repeat>72</repeat>
+        <onconnect>1</onconnect>
+        <text>Krasnostav Airfield amd Balota Airfield have been overhauled </text>
+    </message>
+
+    <message>
+        <delay>13</delay>
+        <repeat>72</repeat>
+        <onconnect>1</onconnect>
+        <text>Svetlojarsk was in the middle of an evacuation, check out the overhaul </text>
+    </message>
+    
+    <message>
+        <delay>14</delay>
+        <repeat>73</repeat>
+        <onconnect>1</onconnect>
+        <text>Some time has passed since day 0, Nature is taking back over many locations </text>
+    </message>
+
+    <message>
+        <delay>14</delay>
+        <repeat>73</repeat>
+        <onconnect>1</onconnect>
+        <text>Some vending machines around the map have a chance to spawn a soda in them </text>
+    </message>
+
+    <message>
+        <delay>15</delay>
+        <repeat>74</repeat>
+        <onconnect>1</onconnect>
+        <text>Some areas are foggy but dont worry the fog wont hurt you, some bus's have cover and a fireplace in them </text>
+    </message>
+
+    <message>
+        <delay>15</delay>
+        <repeat>74</repeat>
+        <onconnect>1</onconnect>
+        <text>Some police cars have flashing lights and lighthouses have lights on, keep an eye out </text>
+    </message>
+<!--
+See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
+
+Example messages:
+
+1) following message will be displayed to every player in countdown manner
+    and shuts down server in 10 hours from its start
+
+    <message>
+        <deadline>600</deadline>
+        <shutdown>1</shutdown>
+        <text>Shadows Realm will shutdown in #tmin minutes.</text>
+    </message>
+
+
+2) following message will be displayed every 15 minutes to every player
+
+    <message>
+        <repeat>15</repeat>
+        <text>You're playing on Shadows Realm (#name). Thank you :P .)</text>
+    </message>
+
+
+3) following message will be displayed every 50 minutes to every player
+    and 10 minutes after player connect
+
+    <message>
+        <delay>10</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text>server can have random restarts due to  maintenance </text>
+    </message>
+
+
+4) following message will be displayed once
+    and 2 minutes after player connect
+
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to Shadows Realm #name</text>
+    </message>
+    -->
+
+</messages>
