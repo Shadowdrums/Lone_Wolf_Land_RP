@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>65</min_dist_player>
+            <max_dist_player>150</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>240</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Custom">
+                <pos x="4199.00" z="8656.00" />
+				<pos x="510.00" z="11232.00" />
+				<pos x="3043.00" z="5607.00" />
+				<pos x="3559.00" z="15015.00" />
+				<pos x="12183.00" z="12759.00" />
+				<pos x="7376.00" z="9166.00" />
+				<pos x="6590.00" z="5549.00" />
+				<pos x="2536.00" z="1437.00" />
+				<pos x="8291.00" z="12551.00" />
+				<pos x="8416.00" z="6677.00" />
+				<pos x="10277.00" z="3559.00" />
+				<pos x="4556.00" z="2576.00" />
+				<pos x="995.00" z="6698.00" />
+                <pos x="15173.00" z="13773.00" />
+                <pos x="11414.00" z="10601.00" />
+                <pos x="6195.00" z="2384.00" />
+                <pos x="14361.00" z="13311.00" />
+                <pos x="5128.00" z="14933.00" />
+                <pos x="10300.00" z="12032.00" />
+                <pos x="10351.00" z="5685.00" />
+                <pos x="5444.00" z="5494.00" />
+                <pos x="14031.00" z="2925.00" />
+                <pos x="12803.00" z="4477.00" />
+                <pos x="12988.00" z="5979.00" />
+                <pos x="12273.00" z="7400.00" />
+                <pos x="13441.00" z="12168.00" />
+                <pos x="8367.00" z="3311.00" />
+                <pos x="5539.00" z="2328.00" />
+                <pos x="3291.00" z="4046.00" />
+                <pos x="11992.00" z="8929.00" />
+                <pos x="12439.00" z="10874.00" />
+                <pos x="290.00" z="2719.00" />
+            </group>
+        </generator_posbubbles>
+    </fresh>
+    <hop>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Custom">
+            </group>
+        </generator_posbubbles>
+    </hop>
+    <travel>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+       <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Custom">
+            </group>
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>
